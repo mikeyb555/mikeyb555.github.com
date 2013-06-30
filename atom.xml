@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Michael Banfield]]></title>
+  <link href="http://mikeyb555.github.io/atom.xml" rel="self"/>
+  <link href="http://mikeyb555.github.io/"/>
+  <updated>2013-06-30T22:35:25+10:00</updated>
+  <id>http://mikeyb555.github.io/</id>
+  <author>
+    <name><![CDATA[Michael Banfield]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[first post]]></title>
+    <link href="http://mikeyb555.github.io/blog/2013/06/30/first-post/"/>
+    <updated>2013-06-30T22:00:00+10:00</updated>
+    <id>http://mikeyb555.github.io/blog/2013/06/30/first-post</id>
+    <content type="html"><![CDATA[<p>My first post using Octopress</p>
+]]></content>
+  </entry>
+  
+</feed>
